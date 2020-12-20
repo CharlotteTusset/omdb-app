@@ -45,5 +45,10 @@ npm run build
 npm run lint
 ```
 
+### Copy .env.example to .env and add your OMDB API
+```
+VUE_APP_TMDB_API_KEY=your_api
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
